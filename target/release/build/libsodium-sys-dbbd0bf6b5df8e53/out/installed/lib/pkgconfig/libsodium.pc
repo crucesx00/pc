@@ -1,0 +1,12 @@
+prefix=/home/unknown/Documents/trithemius-master/PRiVYCHAT/target/release/build/libsodium-sys-dbbd0bf6b5df8e53/out/installed
+exec_prefix=${prefix}
+libdir=/home/unknown/Documents/trithemius-master/PRiVYCHAT/target/release/build/libsodium-sys-dbbd0bf6b5df8e53/out/installed/lib
+includedir=${prefix}/include
+
+Name: libsodium
+Version: 1.0.18
+Description: A modern and easy-to-use crypto library
+
+Libs: -L${libdir} -lsodium
+Libs.private:  -pthread 
+Cflags: -I${includedir}
