@@ -1,0 +1,1 @@
+{"rustc":2405648223762283509,"features":"[\"default\"]","target":14775316345669235984,"profile":16668067249205866872,"path":8574862211766967552,"deps":[[6880116618428842180,"memchr",false,13884603386766609938]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/csv-core-0a94aa7f50491646/dep-lib-csv-core"}}],"rustflags":[],"metadata":6235794881705315069,"config":0}

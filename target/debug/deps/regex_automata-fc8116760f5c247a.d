@@ -1,0 +1,11 @@
+/home/unknown/Documents/PRIVY/PRiVYCHAT/target/debug/deps/regex_automata-fc8116760f5c247a.rmeta: /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs
+
+/home/unknown/Documents/PRIVY/PRiVYCHAT/target/debug/deps/regex_automata-fc8116760f5c247a.d: /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs
+
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/lib.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/classes.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dense.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/dfa.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/regex.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/sparse.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/regex-automata-0.1.9/src/state_id.rs:

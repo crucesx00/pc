@@ -1,0 +1,14 @@
+/home/unknown/Documents/PRIVY/PRiVYCHAT/target/debug/deps/base64-7307acd6c495fec1.rmeta: /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/unknown/Documents/PRIVY/PRiVYCHAT/target/debug/deps/base64-7307acd6c495fec1.d: /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs /home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs
+
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/lib.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/chunked_encoder.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/display.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/mod.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/read/decoder.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/tables.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/mod.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/write/encoder.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/encode.rs:
+/home/unknown/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.12.3/src/decode.rs:

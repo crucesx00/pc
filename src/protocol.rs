@@ -128,9 +128,9 @@ mod tests {
     use crate::error::Result;
     use crate::identity::Identity;
     use crate::keys::Nonce;
-    use slog::*;
+    
     use sodiumoxide::crypto::box_::gen_nonce;
-    use std::sync::Once;
+    
     use tokio;
 
     fn setup_logging() -> Logger {

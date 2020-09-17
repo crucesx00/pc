@@ -1076,7 +1076,7 @@ dependencies = [
 [[package]]
 name = "tokio-serde-msgpack"
 version = "0.2.0"
-source = "git+https://github.com/syndirect/tokio-serde-msgpack#626b54401925ec3134827cf014aa7ef40d5b89cb"
+source = "git+https://github.com/syndirect/tokio-serde-msgpack#7157a20511f8f8e20d431b7a13cbc04d387bc0d7"
 dependencies = [
  "bytes 0.5.6",
  "futures 0.3.5",

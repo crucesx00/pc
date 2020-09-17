@@ -69,7 +69,7 @@ pub mod tests {
     use std::task::{Context, Poll};
     use tokio::io::{AsyncRead, AsyncReadExt, AsyncWrite, AsyncWriteExt, BufReader, BufWriter};
     use tokio::sync::mpsc::{
-        error::TryRecvError, unbounded_channel, UnboundedReceiver, UnboundedSender,
+        unbounded_channel, UnboundedReceiver, UnboundedSender,
     };
 
     pub struct MockAsyncReadWrite {
@@ -206,7 +206,7 @@ pub mod tests {
             client_writer.write(&data).await?;
             client_writer.flush().await?;
             let mut output_buffer = [0; 2048];
-            let mut size = server_reader.read(&mut output_buffer).await?;
+            let size = server_reader.read(&mut output_buffer).await?;
             assert_eq!(2048, size);
             assert_eq!(data, &output_buffer[..]);
         }
@@ -218,7 +218,7 @@ pub mod tests {
             server_writer.write(&data).await?;
             server_writer.flush().await?;
             let mut output_buffer = [0; 2048];
-            let mut size = client_reader.read(&mut output_buffer).await?;
+            let size = client_reader.read(&mut output_buffer).await?;
             assert_eq!(2048, size);
             assert_eq!(data, &output_buffer[..]);
         }

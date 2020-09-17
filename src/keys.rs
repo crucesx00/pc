@@ -190,7 +190,7 @@ impl From<SymmetricKey> for secretstream::Key {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use sodiumoxide::crypto::{box_, kx, secretbox};
+    use sodiumoxide::crypto::{box_};
 
     #[test]
     fn test_key_interop() {
