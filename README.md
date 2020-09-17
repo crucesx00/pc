@@ -14,15 +14,15 @@ PRiVY CHAT [ P.C ]
     ▓│ a softwares above average modern security standard. PS: do not feed them ..         │▒
     ╔╝╦═─────────────────═══════════════════════════════════════════════─────────────────═╦╚╗
     ╚╬╝ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╚╬╝
-     ╚═─═══════════════─═╗                                             ╔═─═══════════════─═╝
+     ╚═─═══════════════─═╗       How to install / deploy P.C chat      ╔═─═══════════════─═╝
     ╔═─════════════════─═╝                                             ╚═─════════════════─═╗
-    ╚╬                                                                                     ╬╝
+    ╚╬   First you need to download rust and use nightly version ( I did not test stable ) ╬╝
+    ▓│       curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh                │▒
+    ▓│     Then once installed source the env and you are now ready to build / compile     │▒
+    ▓│                             cargo build --release                                   │▒
+    ▓│              You should now have privy binary in  /target/release/privy             │▒
     ▓│                                                                                     │▒
-    ▓│                                                                                     │▒
-    ▓│                                                                                     │▒
-    ▓│                                                                                     │▒
-    ▓│                                                                                     │▒
-    ▓│                                                                                     │▒
+    ▓│            Roll one , Crack cold beer open and enjoy the cyber greatness            │▒
     ╔╝╦═─────────────────═══════════════════════════════════════════════─────────────────═╦╚╗
     ╚╬╝ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╨ ╚╬╝
      ╚═─═══════════════─═╗                                             ╔═─═══════════════─═╝
